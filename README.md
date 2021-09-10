@@ -1,1 +1,1 @@
-# Hao (Hao1503)'s Cydia Repository
+# Hao's Repo
