@@ -63,7 +63,7 @@ body
     right: 15px;
     left: 15px;
     padding: 13px 22px 10px 184px;
-    background-color: #fff7f7;
+    background-color: #333333;
     border-radius: 15px 15px 0 0;
     -webkit-transition: 0.3s ease top;
     transition: 0.3s ease top;
@@ -113,7 +113,7 @@ body
 {
     color: transparent;
     font-size: 11px;
-    background-color: #ffe8ee;
+    background-color: #333333;
     border-radius: 10px;
     -webkit-transition: 0.3s ease all;
     transition: 0.3s ease all;
@@ -134,7 +134,7 @@ body
 
 #s-area
 {
-    background-color:#ffe8ee;
+    background-color:#333333;
     cursor: pointer;
 }
 
@@ -208,7 +208,7 @@ body
 #album-art.active
 {
     top: -60px;
-    box-shadow: 0 0 0 4px #fff7f7, 0 30px 50px -15px #afb7c1;
+    box-shadow: 0 0 0 4px #333333, 0 30px 50px -15px #afb7c1;
 }
 
 #album-art:before

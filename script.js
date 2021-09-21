@@ -21,10 +21,10 @@ $(function()
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
 	var songs = [{
-		artist: "Dig Didzay",
-		name: "Nếu Anh Đi (Cover)",
-		url: "Musics/NeuAnhDi.mp3",
-		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+		artist: "JSOL & Hoàng Duyên",
+		name: "Sài Gòn Hôm Nay Mưa",
+		url: "Musics/sg.mp3",
+		picture: "https://f.top4top.io/p_20896521w0.jpeg"
 	}];
 	
 	function shuffle(a) {
